@@ -13,7 +13,7 @@
     }
     
     .ace-tomorrow_night-theme {
-      background: url('https://media.discordapp.net/attachments/1130907129730039909/1175656759331934208/10917521.jpg?ex=656c06ae&is=655991ae&hm=52a38fab1ba66e0db2e16ffd6b2492d49f29694cf48846474b05c90c24526468&=&width=976&height=610') no-repeat center center fixed;
+      background: url('https://media.discordapp.net/attachments/1145689059952447539/1176660092947529819/IMG_6930.jpg?ex=656fad1b&is=655d381b&hm=fd429160a6f5b50f1d92de4f7bad812fd161c3364d84010d63f526bc43449140&=&format=webp&width=700&height=464') no-repeat center center fixed;
       background-size: cover;
       color: #FF6EC7; 
       text-shadow: #FFC0CB;
